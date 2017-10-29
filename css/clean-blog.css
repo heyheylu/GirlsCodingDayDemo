@@ -165,7 +165,7 @@ hr.small {
   .intro-header .site-heading,
   .intro-header .post-heading,
   .intro-header .page-heading {
-    padding: 150px 0;
+    padding: 300px 0;
   }
 }
 .intro-header .site-heading,
@@ -405,4 +405,32 @@ img::-moz-selection {
 }
 body {
   -webkit-tap-highlight-color: #0085A1;
+}
+.font-small {
+  font-weight: normal;
+}
+.img-all{
+    display: inline;
+    width: 220px;
+    height: auto;
+}
+.font-top{
+  text-align: center;
+}
+.sanpie-reels{
+    max-width: 80px;
+    margin: 15px auto;
+    border-width: 2px;
+    border-color: #333333;
+}
+.cccc {
+  position: relative;
+}
+
+.cccc:hover {
+  margin: 10px;
+}
+
+.letter{
+  text-align: center;
 }
